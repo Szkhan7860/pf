@@ -64,4 +64,3 @@ jobs:
 - Edit social links in `src/App.jsx` (SOCIALS array).
 - Tweak colors/animations directly in `src/App.jsx`.
 - Tailwind config: `tailwind.config.js`.
-- 
